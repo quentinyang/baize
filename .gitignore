@@ -54,3 +54,12 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+
+# Cocoapods
+ios/Pods
+ios/baize.xcodeproj/project.xcworkspace
+ios/baize.xcworkspace/contents.xcworkspacedata
+ios/baize.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+# `ios/baize.xcodeproj/project.pbxproj` has already be added.
+
+# React-Native JS Code
